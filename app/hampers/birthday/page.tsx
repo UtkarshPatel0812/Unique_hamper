@@ -39,7 +39,6 @@ const BirthdayHampersPage = () => {
       description: 'Special hamper for milestone birthdays with elegant and meaningful items',
       image: 'https://images.pexels.com/photos/918327/pexels-photo-918327.jpeg?auto=compress&cs=tinysrgb&w=500',
       features: ['Premium Champagne Chocolates', 'Keepsake Box', 'Memory Book', 'Elegant Accessories', 'Gold Accents'],
-      features: ['Premium Special Mithai', 'Keepsake Box', 'Memory Book', 'Elegant Accessories', 'Gold Accents'],
       ageGroup: 'Milestone Ages',
       popular: false
     }

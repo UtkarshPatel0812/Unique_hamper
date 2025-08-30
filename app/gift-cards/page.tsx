@@ -197,7 +197,6 @@ const GiftCardsPage = () => {
                           })}
                           className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#D4AF37] focus:border-transparent transition-all duration-300"
                           placeholder="your.email@example.com"
-                          placeholder="your.email@example.com"
                         />
                         {errors.senderEmail && (
                           <p className="mt-1 text-sm text-red-600">

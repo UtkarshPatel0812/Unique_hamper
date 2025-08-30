@@ -36,7 +36,6 @@ const EngagementHampersPage = () => {
       description: 'Nature-inspired engagement set with floral elements and organic chocolates',
       image: 'https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg?auto=compress&cs=tinysrgb&w=500',
       features: ['Organic Chocolates', 'Fresh Flowers', 'Natural Tray', 'Botanical Cards', 'Eco Packaging'],
-      features: ['Organic Mithai', 'Fresh Flowers', 'Natural Tray', 'Botanical Cards', 'Eco Packaging'],
       popular: false
     }
   ];

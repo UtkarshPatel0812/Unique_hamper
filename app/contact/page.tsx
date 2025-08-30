@@ -186,7 +186,6 @@ const ContactPage = () => {
                       <input
                         {...register("phone")}
                         className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#D4AF37] focus:border-transparent transition-all duration-300"
-                        placeholder="+1 (234) 567-890"
                         placeholder="+91 98765 43210"
                       />
                     </div>

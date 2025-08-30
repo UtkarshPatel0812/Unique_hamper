@@ -39,7 +39,6 @@ const AnniversaryHampersPage = () => {
       description: 'Sweet celebration for the first year of marriage with fresh and vibrant elements',
       image: 'https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg?auto=compress&cs=tinysrgb&w=500',
       features: ['Fresh Fruit Chocolates', 'Newlywed Treats', 'First Year Calendar', 'Promise Notes', 'Bright Packaging'],
-      features: ['Fresh Fruit Mithai', 'Newlywed Treats', 'First Year Calendar', 'Promise Notes', 'Bright Packaging'],
       milestone: '1st Anniversary',
       popular: false
     }

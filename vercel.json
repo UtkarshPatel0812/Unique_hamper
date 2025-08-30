@@ -5,15 +5,15 @@
     }
   },
   "env": {
-    "SMTP_HOST": "@smtp_host",
-    "SMTP_PORT": "@smtp_port", 
-    "SMTP_SECURE": "@smtp_secure",
-    "SMTP_USER": "@smtp_user",
-    "SMTP_PASS": "@smtp_pass",
-    "COMPANY_NAME": "@company_name",
-    "COMPANY_EMAIL": "@company_email",
-    "COMPANY_PHONE": "@company_phone",
-    "COMPANY_ADDRESS": "@company_address",
-    "ADMIN_EMAIL": "@admin_email"
+    "SMTP_HOST": "smtp.gmail.com",
+    "SMTP_PORT": "587", 
+    "SMTP_SECURE": "false",
+    "SMTP_USER": "zpandya502@gmail.com",
+    "SMTP_PASS": "exyb podc sfnk guvo",
+    "COMPANY_NAME": "Unique Hampers",
+    "COMPANY_EMAIL": "info@uniquehampers.com",
+    "COMPANY_PHONE": "+91 83202 31566",
+    "COMPANY_ADDRESS": "Shop No. 15, MG Road, Mumbai, Maharashtra 400001",
+    "ADMIN_EMAIL": "zpandya502@gmail.com"
   }
 }
